@@ -1,15 +1,6 @@
 <h1 align="center">Anna</h1>
 <p align="center">1 курс · Факультет AI-технологий, ИТМО · Анализ данных и ML</p>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=klippxt&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klippxt&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=klippxt&theme=tokyonight&hide_border=true" />
-</div>
-
 <h3 align="center">🛠 Технологии</h3>
 
 <p align="center"><b>Языки</b></p>
@@ -43,10 +34,10 @@
 <p align="center">
   <b><a href="https://github.com/klippxt/avito-time-to-sell">Time-to-Sell — ликвидность автообъявлений Avito</a></b><br>
   Анализ 160k объявлений: факторы ликвидности (NB GLM, LightGBM + SHAP), survival-анализ спроса,<br>
-  сегментация рынка, дизайн A/B. 3 место на хакатоне Avito × ИТМО 2026.
+  сегментация рынка, дизайн A/B. 🥉 3 место на хакатоне Avito × ИТМО 2026.
 </p>
 
-<h3 align="center"> Сейчас</h3>
+<h3 align="center">🎯 Сейчас</h3>
 
 <p align="center">Углубляюсь в анализ данных, статистику и ML. Интересует RecSys.<br>Хожу на хакатоны и олимпиады по математике.</p>
 
