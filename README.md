@@ -34,11 +34,7 @@
 <p align="center">
   <b><a href="https://github.com/klippxt/avito-time-to-sell">Time-to-Sell — ликвидность автообъявлений Avito</a></b><br>
   Анализ 160k объявлений: факторы ликвидности (NB GLM, LightGBM + SHAP), survival-анализ спроса,<br>
-  сегментация рынка, дизайн A/B. 🥉 3 место на хакатоне Avito × ИТМО 2026.
+  сегментация рынка, дизайн A/B.
 </p>
 
-<h3 align="center">🎯 Сейчас</h3>
-
-<p align="center">Углубляюсь в анализ данных, статистику и ML. Интересует RecSys.<br>Хожу на хакатоны и олимпиады по математике.</p>
-
-<p align="center">📍 Санкт-Петербург</p>
+<p align="center">📍 Saint-P</p>
