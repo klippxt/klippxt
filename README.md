@@ -29,10 +29,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h3 align="center">📂 Проекты</h3>
-
-<p align="center">
-  <b><a href="https://github.com/klippxt/avito-time-to-sell">
-</p>
-
-<p align="center">📍 Saint-P</p>
