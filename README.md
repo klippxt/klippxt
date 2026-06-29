@@ -1,7 +1,7 @@
 <h1 align="center">Anna</h1>
-<p align="center">2 курс · ИИИ, ИТМО · </p>
+<p align="center">2 курс · ИИИ, ИТМО  </p>
 
-<h3 align="center">🛠 Технологии</h3>
+<h3 align="center">Технологии</h3>
 
 <p align="center"><b>Языки</b></p>
 <p align="center">
