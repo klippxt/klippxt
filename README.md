@@ -32,9 +32,7 @@
 <h3 align="center">📂 Проекты</h3>
 
 <p align="center">
-  <b><a href="https://github.com/klippxt/avito-time-to-sell">Time-to-Sell — ликвидность автообъявлений Avito</a></b><br>
-  Анализ 160k объявлений: факторы ликвидности (NB GLM, LightGBM + SHAP), survival-анализ спроса,<br>
-  сегментация рынка, дизайн A/B.
+  <b><a href="https://github.com/klippxt/avito-time-to-sell">
 </p>
 
 <p align="center">📍 Saint-P</p>
